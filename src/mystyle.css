@@ -1,4 +1,22 @@
 h3 {
   background-color: pink;
   color: blue;
+  padding: 1rem;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  background-color: orange;
+}
+.button {
+  background-color: rgb(16, 235, 104);
+  color: orange;
+  padding: 2rem;
+  font-size: 2rem;
+  border: none;
+  margin: 0.5rem;
+  border-radius: 1rem;
+}
+div {
+  text-align: center;
 }
